@@ -1,0 +1,9 @@
+{
+  "token": "디스코드에서 발급 받은 토큰",
+  "apiUrl": "http://localhost:8080",
+  "clientId": "1334707504122171554",
+  "guildId": "1237433112120524880",
+  "attendanceCheck": "1237433345282150510",
+  "newMemberId": "1238093314171863111",
+  "regularMemberId": "1238090116430303253"
+}
